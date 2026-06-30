@@ -1,2 +1,28 @@
-# 96262ff3a47c4681-ai-productivity-regulatory-com
-The fastest way to have 24/7 automated responses without touching a server. No setup fees. No learning curve.  Multi-server support with per-server configuration and permission levels. Easy setup: invite → configure → active in under 10 minutes.  ## What's Included  - Ai Productivity Regulatory Compliance Checklist — fully configured and ready to u
+# Ai Productivity Regulatory Compliance Checklist Template
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic commands | Yes | Yes |
+| Standard responses | Yes | Yes |
+| Community access | Yes | Yes |
+| Custom commands | - | Yes |
+| Analytics dashboard | - | Yes |
+| Priority processing | - | Yes |
+| API webhooks | - | Yes |
+| Unlimited servers | - | Yes |
+| White-label branding | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/8x214nfXx2k49JK8nGcZD21)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/8x214nfXx2k49JK8nGcZD21)
+
